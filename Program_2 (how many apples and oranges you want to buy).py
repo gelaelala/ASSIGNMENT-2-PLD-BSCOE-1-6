@@ -7,4 +7,4 @@ Priceoforange = 25
 Totalamountofapples = Numberofapples * Priceofapple
 Totalamountoforanges = Numberoforanges * Priceoforange
 Total = Totalamountofapples + Totalamountoforanges
-print(f'')
+print(f'The total amount is {Total}')
